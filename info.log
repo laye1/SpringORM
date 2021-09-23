@@ -1,0 +1,8 @@
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - Records are successfully added..
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - Success : Record deleted successfully 
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - Viewing All Customer Details
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - Customer [phoneNumber=9009009010, name=Robert, age=25, gender=M, address=PUNE, planId=2]
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - Customer [phoneNumber=9009009011, name=Lucy, age=48, gender=F, address=MUMBAI, planId=3]
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - Display completed
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - 
+[restartedMain] INFO  com.saraya.FirstOrmDemo.Client  - Let's update a Customer with new Address details
